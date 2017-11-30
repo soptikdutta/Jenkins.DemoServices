@@ -1,0 +1,14 @@
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\RestSharp.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\UnitTest\obj\Debug\UnitTest.pdb

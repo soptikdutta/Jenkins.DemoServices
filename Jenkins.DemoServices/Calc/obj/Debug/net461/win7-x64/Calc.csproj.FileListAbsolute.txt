@@ -1,0 +1,3 @@
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\Calc\bin\Debug\net461\win7-x64\Calc.deps.json
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\Calc\bin\Debug\net461\win7-x64\Calc.runtimeconfig.json
+C:\Users\sdutta\source\repos\Jenkins.DemoServices\Calc\bin\Debug\net461\win7-x64\Calc.runtimeconfig.dev.json
